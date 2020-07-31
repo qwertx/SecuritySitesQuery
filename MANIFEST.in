@@ -1,0 +1,2 @@
+recursive-include query_app/data *
+recursive-include query_app/temp *
