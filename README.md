@@ -1,5 +1,9 @@
 # SecuritySitesQuery
 
+## WARNING
+
+ - ZeuS Tracker已经停止服务，SSL Blacklist改变了网站内容，因此本程序需要修改才能正常运行
+
 一个用来搜索安全相关网站的命令行小工具，可以查询IP地址、域名、SSL证书
 
 查询结果可以选择直接显示、导出为json或excel表格
