@@ -1,6 +1,6 @@
 # SecuritySitesQuery
 
-## WARNING
+## Update:
 
  - ZeuS Tracker已经停止服务，SSL Blacklist改变了网站内容，因此本程序需要修改才能正常运行
  
