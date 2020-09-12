@@ -2,7 +2,7 @@ import shodan
 import logging
 from shodan.exception import APIError
 
-SHODAN_API_KEY = 'CjpV4OvUlsbdf6BnicdhooNJGNL36lkV'
+SHODAN_API_KEY = 'xxx
 logger = logging.getLogger('main')
 
 
